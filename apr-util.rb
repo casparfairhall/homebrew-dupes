@@ -2,7 +2,7 @@ require 'formula'
 
 class AprUtil < Formula
   homepage 'http://apr.apache.org/'
-  url 'http://www.apache.org/dyn/closer.cgi?path=apr/apr-util-1.5.4.gz'
+  url 'http://www.apache.org/dyn/closer.cgi?path=apr/apr-util-1.5.4.tar.gz'
   sha1 'de0184ee03dfdc6dec4d013970d1862251e86925'
 
   keg_only :provided_by_osx
